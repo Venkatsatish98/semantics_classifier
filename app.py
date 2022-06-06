@@ -38,16 +38,16 @@ def main():
         </div>
         """
     st.markdown(html_temp, unsafe_allow_html=True)
-    st.write('Classifying the semantics fo reviews using Natural Language Processing')
-    st.write('This app will identify the reviews where the semantics of review text does not match rating.')
-    st.write('Please upload a "csv" file with the below format and click on "Classify" button.')
+    st.header('Classifying the semantics for reviews using Natural Language Processing')
+    st.write('This app will identify the reviews where the semantics of review text does not match its rating.')
+    st.write('Please upload a "csv" file with the below format and click on "View Result" button.')
     st.write(data.head())
 
-    st.subheader("Select CSV file to classify reviews")
-    filename = st.file_uploader("Upload a file", type=("csv"))
+    st.subheader("Please select a 'csv' file")
+    filename = st.file_uploader("Upload", type="csv")
     if filename is not None:
         try:
-            if st.button('Classify'):
+            if st.button('View Result'):
                 test_data = pd.read_csv(filename)
                 copy_data = test_data.copy(deep=True)
                 df_final = clean_data(dataset=test_data)
@@ -61,11 +61,9 @@ def main():
                 result.reset_index(inplace=True)
                 result = result.iloc[:, 1:]
                 st.subheader('Classified Reviews')
-                st.write('Reviews where the semantics of review text does not match rating.')
                 st.write(result)
         except Exception as e:
             return st.write(e)
-        # st.error('Please choose a file')
 
 
 if __name__ == '__main__':
