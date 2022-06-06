@@ -14,5 +14,16 @@ This project has been deployed in heroku platform.
 
 1.Install Git   https://git-scm.com/
 
-
 2.Install heroku cli   https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli
+
+3.Create heroku account 
+
+4.Type 'heroku login -i' in terminal
+
+5.
+
+
+
+
+
+
