@@ -3,14 +3,15 @@ import streamlit as st
 import re
 import nltk
 
+
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 import pickle
 
-with open('D:/Nextlabs/Satish/Projects\project_final/semantics_classifier/model_pickle', 'rb') as f:
+with open('D:/Nextlabs/Satish/Projects/project_final/semantics_classifier/model_pickle', 'rb') as f:
     model = pickle.load(f)  # loading the model_pickle file
-data = pd.read_csv('D:/Nextlabs/Satish/Projects\project_final/semantics_classifier/sample_data.csv')
+data = pd.read_csv('D:/Nextlabs/Satish/Projects/project_final/semantics_classifier/sample_data.csv')
 porterstemmer = PorterStemmer()
 
 
