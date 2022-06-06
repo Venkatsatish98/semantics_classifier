@@ -13,5 +13,4 @@ The file "model_pickle" is the model which is selected by performing accuracy ch
 This project has been deployed in heroku platform.
 
 1.Install Git   https://git-scm.com/
-
 2. INstall heroku cli   https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli
