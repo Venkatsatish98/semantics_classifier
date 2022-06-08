@@ -39,7 +39,7 @@ Run the following commands in the IDE terminal
 ## part 1
 problem 1: https://colab.research.google.com/drive/1PkSzwYQ9ROMUAhcBqq3EfjDV4OgE4lu5#scrollTo=a706c420
 
-problem 2:https://colab.research.google.com/drive/102zWW4f5S1mPHzlMQSB_B-ccAdAW2Mwd#scrollTo=kkNGSOy-h1FO
+problem 2:https://colab.research.google.com/drive/102zWW4f5S1mPHzlMQSB_B-ccAdAW2Mwd?usp=sharing
 
 problem 3:https://colab.research.google.com/drive/1yV9nuxLAp5Cr0mrqi4uxHXPHKIcD4Yy7#scrollTo=J2lsgPQKoGS1
 
