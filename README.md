@@ -10,7 +10,7 @@ The file "model_pickle" is the model which is selected by performing accuracy ch
 
 ## Deployment
 
-This project has been deployed in heroku platform.
+This project has been deployed in heroku platform. please fin the live link here https://semantics--analyser.herokuapp.com/
 
 Install Git   https://git-scm.com/
 
