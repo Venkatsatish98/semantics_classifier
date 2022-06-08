@@ -41,11 +41,10 @@ problem 1:https://colab.research.google.com/drive/1PkSzwYQ9ROMUAhcBqq3EfjDV4OgE4
 
 problem 2:https://colab.research.google.com/drive/102zWW4f5S1mPHzlMQSB_B-ccAdAW2Mwd?usp=sharing
 
-problem 3:https://colab.research.google.com/drive/1yV9nuxLAp5Cr0mrqi4uxHXPHKIcD4Yy7#scrollTo=J2lsgPQKoGS1
+problem 3:https://colab.research.google.com/drive/1yV9nuxLAp5Cr0mrqi4uxHXPHKIcD4Yy7?usp=sharing
 
 ## part 2
-problem 1:https://colab.research.google.com/drive/1VhrxNvFkFiQmtqullNGI7yKmYYUWxRLV#scrollTo=JpQMrGxZM6ut
-
+problem 1:https://colab.research.google.com/drive/1VhrxNvFkFiQmtqullNGI7yKmYYUWxRLV?usp=sharing
 
 ### Bonus Points question 1:
 
