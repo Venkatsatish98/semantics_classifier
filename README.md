@@ -12,15 +12,26 @@ The file "model_pickle" is the model which is selected by performing accuracy ch
 
 This project has been deployed in heroku platform.
 
-1.Install Git   https://git-scm.com/
+Install Git   https://git-scm.com/
 
-2.Install heroku cli   https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli
+Install heroku cli   https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli
 
-3.Create heroku account 
+1.Create heroku account
 
-4.Type 'heroku login -i' in terminal
+Run the following commands in the IDE terminal
 
-5.
+2.git init (to initialize the git repository)
+
+3.heroku login
+-->enter the mail credentials
+
+5.heroku create <app_name>  (give the app name without <,> )
+
+6.git add .
+
+7.git commit -m "type any message"
+
+8.git push heroku master
 
 
 
