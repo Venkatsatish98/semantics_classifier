@@ -37,7 +37,7 @@ Run the following commands in the IDE terminal
 
 # Please find the colab links for all the problem statements
 ## part 1
-problem 1: https://colab.research.google.com/drive/1PkSzwYQ9ROMUAhcBqq3EfjDV4OgE4lu5#scrollTo=a706c420
+problem 1:https://colab.research.google.com/drive/1PkSzwYQ9ROMUAhcBqq3EfjDV4OgE4lu5?usp=sharing
 
 problem 2:https://colab.research.google.com/drive/102zWW4f5S1mPHzlMQSB_B-ccAdAW2Mwd?usp=sharing
 
