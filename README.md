@@ -28,7 +28,7 @@ Run the following commands in the IDE terminal
 
 5.heroku create <app_name>  (give the app name without <,> )
 
-6.git add .
+6.git add .  (Adding all the files)
 
 7.git commit -m "type any message"
 
