@@ -35,7 +35,7 @@ Run the following commands in the IDE terminal
 8.git push heroku master
 
 
-# Please find the colab notebook links for all the problem statements
+# Please find the colab links for all the problem statements
 ## part 1
 problem 1: https://colab.research.google.com/drive/1PkSzwYQ9ROMUAhcBqq3EfjDV4OgE4lu5#scrollTo=a706c420
 
