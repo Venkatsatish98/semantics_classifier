@@ -35,17 +35,3 @@ Run the following commands in the IDE terminal
 8.git push heroku master
 
 
-# Please find the colab links for all the problem statements
-## part 1
-problem 1:https://colab.research.google.com/drive/1PkSzwYQ9ROMUAhcBqq3EfjDV4OgE4lu5?usp=sharing
-
-problem 2:https://colab.research.google.com/drive/102zWW4f5S1mPHzlMQSB_B-ccAdAW2Mwd?usp=sharing
-
-problem 3:https://colab.research.google.com/drive/1yV9nuxLAp5Cr0mrqi4uxHXPHKIcD4Yy7?usp=sharing
-
-## part 2
-problem 1:https://colab.research.google.com/drive/1VhrxNvFkFiQmtqullNGI7yKmYYUWxRLV?usp=sharing
-
-### Bonus Points question 1:
-
-I have given a task in my college, where we need to find a solution for wasting the food at cafeteria.I have come up with a solution that, i have created some dashboards like how many people are dying with hunger every year and how wasting food directly impacts the poor.As a result, the food wastage is reduced to 50% in a week.I have also received many appreciations from my faculty.
